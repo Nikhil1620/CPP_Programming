@@ -36,6 +36,12 @@ class Arithematic
         }
 };
 
+/////////////////////////////////////////////////////////////////////////////
+//
+//  Entry Point Function for the Application
+//
+/////////////////////////////////////////////////////////////////////////////
+
 int main()
 {
     Arithematic aobj1(11,10); 
@@ -56,4 +62,5 @@ int main()
     cout<<"Substraction is : "<<iRet<<"\n";
 
     return 0;
+
 }
